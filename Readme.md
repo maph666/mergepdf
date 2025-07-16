@@ -1,3 +1,7 @@
+# La funcion principal de este programa es  para concatenar varios archivos pdf en uno solo
+
+
+
 ## Para este programa tener instalado python3
 ## Instala virtualenv
 
